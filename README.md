@@ -5,12 +5,7 @@
 <p align="center">
   <th>List of Task</th>  
   <tb>
-      <td>Task 1</td>
-      <td>Task 2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <li>Task 1</li>
   </tb>
 </p>
 
